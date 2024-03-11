@@ -9,7 +9,7 @@ class BaseModel():
     def __str__(self):
             return self.id
     def save(self):
-        self.updated_at = datetime.now()
+        self.updated_at = datetime.datetime.now()
 
     def to_dict(self):
         obj_dict = self.__dict__.copy()
