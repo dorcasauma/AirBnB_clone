@@ -1,0 +1,15 @@
+footer {
+    background-color:white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 60px;
+    border-top: 1px #CCCCCC;
+    position: absolute; /* Absolute positioning within the footer */
+    bottom: 0; /* Positioned at the bottom of the footer */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Adjust horizontally to center */
+}
+

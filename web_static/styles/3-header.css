@@ -1,0 +1,10 @@
+header {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    color:#FF0000;
+    line-height: 70px;
+    border-bottom:1px #CCCCCC;
+    margin-left: 20px; /* Space on the left */
+}
