@@ -8,3 +8,6 @@ header {
     border-bottom:1px #CCCCCC;
     margin-left: 20px; /* Space on the left */
 }
+.logo {
+    margin-right: auto; /* Aligns logo to the left */
+  }
